@@ -38,3 +38,11 @@
 - Talking to an FPGA(C, 200) -- A little code for the USB MCU to bitbang JTAG.
 - Building an FPGA board -- Board design, FPGA BGA reflow, FPGA flash, a 50mhz clock, a USB JTAG port and flasher(no special hardware, a little cypress usb mcu to do jtag), a few leds, a reset button, a serial port(USB-FTDI) also powering via USB, an sd card, expansion connector(ide cable?), and an ethernet port. Optional, expansion board, host USB port, NTSC TV out, an ISA port, and PS/2 connector on the board to taunt you. We provide a toaster oven and a multimeter thermometer to do reflow. 
 - Bringup -- Compiling and downloading the Verilog for the board
+
+
+
+## Some Courses Syllabus Sample from Overseas
+- Computer Science Catalog - [Carnegie Mellon University](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/)
+- Artificial Intelligence Catalog - [Carnegie Mellon University](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/)
+- B.S in Artficial Intelligence - [Carnegie Mellon University](https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum)
+- Language Technologies Institute - [Carnegie Mellon University](https://www.lti.cs.cmu.edu/academics/lt-concentration.html)
