@@ -53,3 +53,4 @@
 - 6-4: Artificial Intelligence and Decision Making - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-4-artificial-intelligence-and-decision-making/)
 - 6-7: Computer Science and Molecular Biology - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-7-computer-science-and-molecular-biology/)
 - 6-14: Computer Science, Economics, and Data Science - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-14-computer-science-economics-and-data-science/)
+- (UNOFFICIAL) COMPUTER SCIENCE @ HARVARD - [v25](https://csadvising.seas.harvard.edu/cs50_Guide_v25.pdf)
