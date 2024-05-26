@@ -40,9 +40,16 @@
 - Bringup -- Compiling and downloading the Verilog for the board
 
 
-
 ## Some Courses Syllabus Sample from Overseas
+> Not all the courses, the fundamentals and pretty decent of usefulness
+
 - Computer Science Catalog - [Carnegie Mellon University](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/)
 - Artificial Intelligence Catalog - [Carnegie Mellon University](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/)
 - B.S in Artficial Intelligence - [Carnegie Mellon University](https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum)
 - Language Technologies Institute - [Carnegie Mellon University](https://www.lti.cs.cmu.edu/academics/lt-concentration.html)
+- 6-1: Electrical Science and Engineering - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-1-electrical-science-and-engineering/)
+- 6-2: Electrical Engineering and Computer Science - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-2-electrical-engineering-and-computer-science/)
+- 6-3: Computer Science and Engineering - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
+- 6-4: Artificial Intelligence and Decision Making - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-4-artificial-intelligence-and-decision-making/)
+- 6-7: Computer Science and Molecular Biology - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-7-computer-science-and-molecular-biology/)
+- 6-14: Computer Science, Economics, and Data Science - [MIT](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-14-computer-science-economics-and-data-science/)
